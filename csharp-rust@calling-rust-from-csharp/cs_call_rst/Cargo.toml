@@ -1,0 +1,11 @@
+[package]
+name = "cs_call_rst"
+version = "0.1.0"
+authors = ["Qin WAN <rogerwq@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "our_rust"
+crate-type = ["dylib"]
+
+[dependencies]
